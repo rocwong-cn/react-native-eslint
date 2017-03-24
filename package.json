@@ -1,0 +1,14 @@
+{
+  "name": "my-eslint",
+  "version": "1.0.0",
+  "description": "my eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "RocWang",
+  "license": "ISC"
+}
