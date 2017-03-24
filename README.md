@@ -33,6 +33,8 @@
   }
 }
 ```
-##webstorm 配置
-webstorm —> preference —> editor —> code style —>javascript
+## webstorm 配置
+
+ >webstorm —> preference —> editor —> code style —>javascript 
+   
 ![ws-config](https://github.com/rocwangv/react-native-eslint/blob/master/ws-config.png)
